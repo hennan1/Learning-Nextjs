@@ -1,3 +1,8 @@
-console.log('Hello from script.js');
-console.log(`${5==10}`);
-console.log(`${5==5}`); 
+// 
+console.log("hannan you are a good")
+console.log("testing script.js");
+
+    document.getElementById("submit").onclick = function(){
+        let text = document.getElementById("input").value;
+        console.log(text);
+    }
