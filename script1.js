@@ -28,3 +28,6 @@ const quotient = a / b;
 
 // Log the quotient to the console
 console.log(`The quotient of ${a} and ${b} is ${quotient}`);
+
+// Log a message indicating the end of calculations
+console.log("End of calculations.");
