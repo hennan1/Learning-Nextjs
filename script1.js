@@ -17,3 +17,14 @@ console.log(`The difference between ${a} and ${b} is ${difference}`);
 
 // Log a test message to the console
 console.log("testing script1.js");
+// Calculate the product of a and b
+const product = a * b;
+
+// Log the product to the console
+console.log(`The product of ${a} and ${b} is ${product}`);
+
+// Calculate the quotient of a and b
+const quotient = a / b;
+
+// Log the quotient to the console
+console.log(`The quotient of ${a} and ${b} is ${quotient}`);
