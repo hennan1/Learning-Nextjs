@@ -32,3 +32,8 @@ console.log(`The quotient of ${a} and ${b} is ${quotient}`);
 // Log a message indicating the end of calculations
 console.log("End of calculations.");
 console.log("what are you doing ")
+
+
+
+// hannan
+console.log("hannan");
