@@ -39,3 +39,10 @@ const remainder = a % b;
 
 // Log the remainder to the console
 console.log(`The remainder of ${a} divided by ${b} is ${remainder}`);
+
+
+// Generate a random number between 0 and 1
+const randomNum = Math.random();
+
+// Log the random number to the console
+console.log(`A random number between 0 and 1 is ${randomNum}`);
