@@ -34,10 +34,8 @@ console.log("End of calculations.");
 console.log("what are you doing ")
 
 
+// Calculate the remainder of a divided by b
+const remainder = a % b;
 
-// hannan
-console.log("hannan");
-// commit
-console.log("commit");
-// random
-console.log("random");
+// Log the remainder to the console
+console.log(`The remainder of ${a} divided by ${b} is ${remainder}`);
