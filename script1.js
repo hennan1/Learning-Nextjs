@@ -46,3 +46,9 @@ const randomNum = Math.random();
 
 // Log the random number to the console
 console.log(`A random number between 0 and 1 is ${randomNum}`);
+
+// Generate a random integer between 1 and 100
+const randomInt = Math.floor(Math.random() * 100) + 1;
+
+// Log the random integer to the console
+console.log(`A random integer between 1 and 100 is ${randomInt}`);
